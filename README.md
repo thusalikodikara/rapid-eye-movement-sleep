@@ -8,5 +8,5 @@
 ##### Link to data set : https://www.kaggle.com/datasets/equilibriumm/sleep-efficiency
 <br>
  <p align="center">
-    <img src="image_app.JPG" width="545" height="400">
+    <img src="app_image.JPG" width="545" height="400">
   </p>
