@@ -6,7 +6,7 @@
 ### Data
 ##### The app uses the Sleep Efficiency dataset from Kaggle, providing insights into sleep patterns and health metrics.
 ##### Link to data set : https://www.kaggle.com/datasets/equilibriumm/sleep-efficiency
-<p>
+<br>
  <p align="center">
     <img src="image_app.JPG" width="545" height="400">
   </p>
