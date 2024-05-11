@@ -1,4 +1,4 @@
-# Rapid Eye Movement Sleep Efficiency
+# Rapid Eye Movement Sleep
 
 ##### Welcome to the Rapid Eye Movement Sleep App! 
 ##### This app allows users to explore Rapid Eye Movement (REM) sleep percentage based on different parameters such as gender, age range, and sleep duration range.
